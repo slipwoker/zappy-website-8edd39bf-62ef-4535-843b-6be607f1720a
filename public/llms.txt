@@ -1,0 +1,74 @@
+# תמתגילי — Generative Engine Optimization Map
+
+> Tematgili is a branding and marketing design business with a strong visual identity expressed through their Instagram presence. The brand appears to be creative, bold, and visually driven, offering branding and design services. The name 'תמתגילי' (Tematgili) is playful and memorable, suggesting a fun yet professional approach to branding. The business has an active social media presence and is looking to expand with a powerful landing page that reflects their unique creative energy.
+
+---
+
+## Pages
+
+### בית
+https://-8edd39bf.zappy5.app
+סוכנות מיתוג ועיצוב שיווקי שמפיחה חיים בחזון שלך. יוצרים זהות ויזואלית נועזת, אסטרטגיה שיווקית ונוכחות דיגיטלית עוצמתית. בואי להפוך את העסק למותג שכולם זוכרים.
+
+### תודה - תמתגילי
+https://-8edd39bf.zappy5.app/thank-you
+תמתגילי - תודה - תמתגילי
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8edd39bf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8edd39bf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8edd39bf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-8edd39bf.zappy5.app
+- Endpoint: https://-8edd39bf.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תמתגילי
+Tematgili is a branding and marketing design business with a strong visual identity expressed through their Instagram presence. The brand appears to be creative, bold, and visually driven, offering branding and design services. The name 'תמתגילי' (Tematgili) is playful and memorable, suggesting a fun yet professional approach to branding. The business has an active social media presence and is looking to expand with a powerful landing page that reflects their unique creative energy.
+
+## Target Audience
+- בעלי עסקים קטנים
+- מייסדי סטארטאפים
+- מנהלי אירועים
+- מומחי שיווק דיגיטלי
+- ימי הולדת
+- אירועי חברה
+- מתנות לעובדים
+
+## Industry
+Branding & Marketing Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-8edd39bf.zappy5.app/sitemap.xml
+- Robots: https://-8edd39bf.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-8edd39bf.zappy5.app/llms-full.txt
