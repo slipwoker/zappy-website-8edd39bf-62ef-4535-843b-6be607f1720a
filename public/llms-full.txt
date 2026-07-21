@@ -2,13 +2,13 @@
 
 Tematgili is a branding and marketing design business with a strong visual identity expressed through their Instagram presence. The brand appears to be creative, bold, and visually driven, offering branding and design services. The name 'תמתגילי' (Tematgili) is playful and memorable, suggesting a fun yet professional approach to branding. The business has an active social media presence and is looking to expand with a powerful landing page that reflects their unique creative energy.
 
-Source: https://-8edd39bf.zappy5.app
+Source: https://example.com
 
 ---
 
 ## בנו מותג בלתי נשכח עם סוכנות מיתוג דיגיטלי — תמתגילי
 
-URL: https://-8edd39bf.zappy5.app
+URL: https://example.com
 Description: סוכנות מיתוג ועיצוב שיווקי שמפיחה חיים בחזון שלך. יוצרים זהות ויזואלית נועזת, אסטרטגיה שיווקית ונוכחות דיגיטלית עוצמתית. בואי להפוך את העסק למותג שכולם זוכרים.
 
 בנו מותג בלתי נשכח עם סוכנות מיתוג דיגיטלי — תמתגילי
@@ -629,7 +629,7 @@ Description: סוכנות מיתוג ועיצוב שיווקי שמפיחה חי
 
 ## מדיניות פרטיות
 
-URL: https://-8edd39bf.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -891,7 +891,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-8edd39bf.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1162,7 +1162,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-8edd39bf.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1452,7 +1452,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - תמתגילי
 
-URL: https://-8edd39bf.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תמתגילי - תודה - תמתגילי
 
 תודה - תמתגילי
